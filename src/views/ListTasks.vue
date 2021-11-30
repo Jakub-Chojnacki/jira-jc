@@ -1,7 +1,10 @@
 <template>
-  <table>
+<div class="wrapper">
+  <table class="list">
     <List/>
+    
   </table>
+  </div>
 </template>
 
 <script>
